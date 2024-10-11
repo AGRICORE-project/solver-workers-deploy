@@ -1,0 +1,7 @@
+.vscode/launch.json
+long_term_celery/__pycache__/**/*
+nohup.out
+celery.out
+repository_utils/__pycache__/**/*
+celery_ST.out
+solver.out
